@@ -1,0 +1,32 @@
+
+
+-----------------------------
+Starting Capital was 1000000.
+Max equity high was at 1021959.9999999998 & max equity low was at 996366.2499999998
+Final capital was 725012.4999999997
+Total return at end of backtest = -27.498750000000033%
+-----------------------------
+No of drawdowns is 4
+Average drawdowns was at 8.067099905807506. Median was at 0.5804163489550145
+Drawdowns lasted for an average of 140.75 trades. Median was at 4.5 trades
+Drawdowns lasted for an average of 134.75 days. Median was at 4.5 days
+-----------------------------
+Max drawdown was at 30.891191925319994%.
+Started from 2017-02-02 2017-02-02 14:00:00+05:30. Low at 2020-03-20 2020-03-20 09:15:00+05:30
+-----------------------------
+Maximum drawdown duration consisted of 552 trades over 528 days.
+Started from 2017-02-02 2017-02-02 14:00:00+05:30. Ended at 2020-03-20 2020-03-20 09:41:00+05:30
+-----------------------------
+Longest winning streak was at 7 from 2018-12-07 2018-12-07 09:15:00+05:30 to 2018-12-26 2018-12-26 13:54:00+05:30. Return of 2.9565799306918126%
+Longest losing streak was at 7 from 2020-03-17 2020-03-17 09:15:00+05:30 to 2020-03-20 2020-03-20 09:15:00+05:30. Return of -4.465350795246362%
+-----------------------------
+The average winstreak was at 2.725806451612903 trades. Median was at 2.0 trades
+The average losestreak was at 3.026666666666667 trades. Median was at 3 trades
+-----------------------------
+Win Rate is 46.04569420035149% with an average reward of 0.5126622137404575R. Median reward is 0.365
+Loss Rate is 53.95430579964851% with an average loss of -0.5643420195439738R. Median loss is -0.44049999999999273
+-----------------------------
+No of trades not taken is 0
+-----------------------------
+
+
